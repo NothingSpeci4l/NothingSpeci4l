@@ -2,6 +2,7 @@
 ### Hi everyone 👋
 <li>🌱 I’m currently learning C++; C</li>
 <li>💬 Ask me about Java; C++<li>
+Old acc: https://github.com/chifouuu
 
 <img src="https://github-readme-stats.vercel.app/api?username=NothingSpeci4l&theme=dark&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NothingSpeci4l&theme=radical&layout=compact">
