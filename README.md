@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;it's+Grégoire)](https://git.io/typing-svg)
 ### Hi everyone 👋
-Old acc: https://github.com/chifouuu
+Old ac: https://github.com/chifouuu
 <li>🌱 I’m currently learning C++; C</li>
 <li>💬 Ask me about Java; C++<li>
 
