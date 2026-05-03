@@ -1,10 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;it's+Grégoire)](https://git.io/typing-svg)
-### Hi everyone 👋
-Old ac: https://github.com/chifouuu
-<li>🌱 I’m currently learning C++; C</li>
-<li>💬 Ask me about Java; C++<li>
+# Gregwll
 
+Developer focused on Minecraft plugins and self-hosted infrastructure.
 
-<img src="https://github-readme-stats.vercel.app/api?username=NothingSpeci4l&theme=dark&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NothingSpeci4l&theme=radical&layout=compact">
-<li>
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+
+---
+
+## 📦 Projects
+
+| Project | Description |
+|---|---|
+| [Greg's TeamSMP](https://github.com/NothingSpeci4l/Greg-s-TeamSMP-V2) | Team & claim plugin for Minecraft SMPs |
+| [HomeGui](https://modrinth.com/plugin/homegui) | Lightweight home plugin with GUI |
+| [CombatGuard](https://modrinth.com/plugin/combatguard-gregwll) | Combat tag plugin with stats tracking |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub streak](https://streak-stats.demolab.com?user=NothingSpeci4l&theme=dark&hide_border=true)
+
+---
+
+*Self-hosted enjoyer. Minecraft plugin developer.*
