@@ -20,6 +20,7 @@ Developer focused on Minecraft plugins and self-hosted infrastructure.
 | [Greg's TeamSMP](https://github.com/NothingSpeci4l/Greg-s-TeamSMP-V2) | Team & claim plugin for Minecraft SMPs |
 | [HomeGui](https://modrinth.com/plugin/homegui) | Lightweight home plugin with GUI |
 | [CombatGuard](https://modrinth.com/plugin/combatguard-gregwll) | Combat tag plugin with stats tracking |
+| [GregsCallsignGenerator](https://github.com/NothingSpeci4l/GregsCallsignGenerator) | Callsign generator for IVAO / VATSIM fictional flights |
 
 ---
 
