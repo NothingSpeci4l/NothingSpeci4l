@@ -15,6 +15,8 @@ Developer focused on Minecraft plugins and self-hosted infrastructure.
 
 ## 📦 Projects
 
+https://modrinth.com/user/gregwll
+
 | Project | Description |
 |---|---|
 | [Greg's TeamSMP](https://github.com/NothingSpeci4l/Greg-s-TeamSMP-V2) | Team & claim plugin for Minecraft SMPs |
